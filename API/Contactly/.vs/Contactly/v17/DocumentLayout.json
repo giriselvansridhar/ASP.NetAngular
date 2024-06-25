@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A972949-04F4-46BB-8F26-5C15F0A8A65A}|Contactly\\Contactly.csproj|c:\\users\\giris\\codes\\angular .net learn\\asp.netangular\\api\\contactly\\contactly\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A972949-04F4-46BB-8F26-5C15F0A8A65A}|Contactly\\Contactly.csproj|solutionrelative:contactly\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Models\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "Contactly\\Models\\Domain\\Contact.cs",
+              "ToolTip": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Models\\Domain\\Contact.cs",
+              "RelativeToolTip": "Contactly\\Models\\Domain\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:12:35.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
