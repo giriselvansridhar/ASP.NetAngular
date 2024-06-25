@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4P4sxJIABqs=",
+  "dgSpecHash": "iQVyfMUtqK4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\API\\Contactly\\Contactly\\Contactly.csproj",
+  "projectFilePath": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Contactly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giris\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\giris\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giris\\Codes\\Angular .Net Learn\\API\\Contactly\\Contactly\\Contactly.csproj": {}
+    "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Contactly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giris\\Codes\\Angular .Net Learn\\API\\Contactly\\Contactly\\Contactly.csproj": {
+    "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Contactly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\API\\Contactly\\Contactly\\Contactly.csproj",
+        "projectUniqueName": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Contactly.csproj",
         "projectName": "Contactly",
-        "projectPath": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\API\\Contactly\\Contactly\\Contactly.csproj",
+        "projectPath": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Contactly.csproj",
         "packagesPath": "C:\\Users\\giris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\API\\Contactly\\Contactly\\obj\\",
+        "outputPath": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giris\\AppData\\Roaming\\NuGet\\NuGet.Config",
