@@ -60,12 +60,20 @@ _will fill the properties in this class_
 Syntax:
 
 ```
-public <DataType> <required!> <Name> {get;set;} 
-```
+public <DataType><?!> <required!> <Name> {get;set;} 
+``` 
+? --> Value or null
 
 ```
+
+
 Guid
+Int
+String
+bool
 ```
+
+
 
 
 
