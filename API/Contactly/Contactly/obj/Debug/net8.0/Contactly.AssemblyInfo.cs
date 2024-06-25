@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contactly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efe6ac44cb0a622e62e4ff281c30e82d5356b7d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+251a0ccdff36d2de20c24df0c48f9759ca8daa53")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contactly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contactly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
