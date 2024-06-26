@@ -166,7 +166,7 @@ ii. The Empty controller
 ![alt text](image-11.png)
 _The RouteName contoller is the name 0f controller_
 
-iii. 
+iii.  Write End point to retrieve all data from the database
 
 ![alt text](image-12.png)
 
@@ -180,7 +180,44 @@ public IActionResult CustomName()
 
 ```
 
+iv. The database is injected in the program.ts. So the data ccan bae accesable in the controler  
 
+
+v.Create a controller constructor
+
+![alt text](image-14.png)
+
+vi. Include the database ContactlyDbContent dbContext
+
+![alt text](image-17.png)
+
+
+vii. Press control+. in the dbcontext. Make it as readonly property
+
+![alt text](image-16.png)
+
+
+viii. In the function call the dbcontext and call contacts and make it as array
+
+![
+](image-18.png)
+
+
+syntax
+```
+
+var <name> = <variablename>.<databaseModel>.ToList();
+return ok(<contacts>)
+
+```
+
+
+ix. Creating a post controller
+
+![alt text](image-19.png)
+
+
+x.
 
 
 

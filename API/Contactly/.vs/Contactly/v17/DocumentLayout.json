@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A972949-04F4-46BB-8F26-5C15F0A8A65A}|Contactly\\Contactly.csproj|c:\\users\\giris\\codes\\angular .net learn\\asp.netangular\\api\\contactly\\contactly\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A972949-04F4-46BB-8F26-5C15F0A8A65A}|Contactly\\Contactly.csproj|solutionrelative:contactly\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A972949-04F4-46BB-8F26-5C15F0A8A65A}|Contactly\\Contactly.csproj|c:\\users\\giris\\codes\\angular .net learn\\asp.netangular\\api\\contactly\\contactly\\data\\contactlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A972949-04F4-46BB-8F26-5C15F0A8A65A}|Contactly\\Contactly.csproj|solutionrelative:contactly\\data\\contactlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A972949-04F4-46BB-8F26-5C15F0A8A65A}|Contactly\\Contactly.csproj|c:\\users\\giris\\codes\\angular .net learn\\asp.netangular\\api\\contactly\\contactly\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A972949-04F4-46BB-8F26-5C15F0A8A65A}|Contactly\\Contactly.csproj|solutionrelative:contactly\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A972949-04F4-46BB-8F26-5C15F0A8A65A}|Contactly\\Contactly.csproj|c:\\users\\giris\\codes\\angular .net learn\\asp.netangular\\api\\contactly\\contactly\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A972949-04F4-46BB-8F26-5C15F0A8A65A}|Contactly\\Contactly.csproj|solutionrelative:contactly\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactlyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Data\\ContactlyDbContext.cs",
+              "RelativeDocumentMoniker": "Contactly\\Data\\ContactlyDbContext.cs",
+              "ToolTip": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Data\\ContactlyDbContext.cs*",
+              "RelativeToolTip": "Contactly\\Data\\ContactlyDbContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:25:13.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Contactly\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Contactly\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:24:45.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Models\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "Contactly\\Models\\Domain\\Contact.cs",
+              "ToolTip": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Models\\Domain\\Contact.cs",
+              "RelativeToolTip": "Contactly\\Models\\Domain\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:19:54.95Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "Contactly\\Controllers\\ContactsController.cs",
               "ToolTip": "C:\\Users\\giris\\Codes\\Angular .Net Learn\\ASP.NetAngular\\API\\Contactly\\Contactly\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "Contactly\\Controllers\\ContactsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T17:06:02.675Z",
               "EditorCaption": ""

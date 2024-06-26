@@ -7,6 +7,8 @@ namespace Contactly.Data
     {
         public ContactlyDbContext(DbContextOptions options) : base(options)
         {
+
+
         }
 
         public DbSet<Contact> Contacts { get; set; }

@@ -69,3 +69,6 @@ C:\Users\giris\Codes\Angular .Net Learn\ASP.NetAngular\API\Contactly\Contactly\o
 C:\Users\giris\Codes\Angular .Net Learn\ASP.NetAngular\API\Contactly\Contactly\obj\Debug\net8.0\Contactly.pdb
 C:\Users\giris\Codes\Angular .Net Learn\ASP.NetAngular\API\Contactly\Contactly\obj\Debug\net8.0\Contactly.genruntimeconfig.cache
 C:\Users\giris\Codes\Angular .Net Learn\ASP.NetAngular\API\Contactly\Contactly\obj\Debug\net8.0\ref\Contactly.dll
+C:\Users\giris\Codes\Angular .Net Learn\ASP.NetAngular\API\Contactly\Contactly\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\giris\Codes\Angular .Net Learn\ASP.NetAngular\API\Contactly\Contactly\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\giris\Codes\Angular .Net Learn\ASP.NetAngular\API\Contactly\Contactly\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
